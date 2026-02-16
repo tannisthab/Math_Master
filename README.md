@@ -9,9 +9,7 @@
 
 ## 📌 Project Overview
 
-MathMaster is a menu-driven Python application designed to perform various mathematical operations in a structured and interactive way.
-
-This project integrates multiple mathematical concepts into a single utility system.
+Math_Master is a menu-driven Python application that performs a wide range of mathematical operations in a structured and interactive manner.
 
 ---
 
@@ -69,5 +67,15 @@ This project integrates multiple mathematical concepts into a single utility sys
 2. Navigate into the folder:
    cd Math_Master
 
-3. Run the file:
+   ---
+
+## 📌 Future Improvements
+
+- Add graphical user interface (GUI)
+- Expand advanced calculus features
+- Improve error handling and input validation
+- Add unit testing for better reliability
+
+
+4. Run the file:
    python3 math_master.py
