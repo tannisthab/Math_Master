@@ -1,2 +1,73 @@
-# Math_Master
-A Python-Based Mathematical Utility System featuring calculator, combinatorics, set operations, matrix operations, and calculus using SymPy.
+# Math_Master  
+### A Python-Based Mathematical Utility System  
+
+👩‍💻 Developed by: Tannistha Banerjee  
+🎓 BSc Data Science & Analytics  
+📊 Semester 1 SGPA: 9.45  
+
+---
+
+## 📌 Project Overview
+
+MathMaster is a menu-driven Python application designed to perform various mathematical operations in a structured and interactive way.
+
+This project integrates multiple mathematical concepts into a single utility system.
+
+---
+
+## 🚀 Features
+
+### 1️⃣ Simple Calculator
+- Addition
+- Subtraction
+- Multiplication
+- Division
+
+### 2️⃣ Combinatorics
+- Permutations (nPr)
+- Combinations (nCr)
+
+### 3️⃣ Set Relations
+- Union
+- Intersection
+- Difference
+
+### 4️⃣ Matrix Operations
+- Determinant
+- Inverse
+- Transpose
+- Solve Linear Equations (Ax = b)
+
+### 5️⃣ Calculus
+- Differentiation
+- Integration
+
+---
+
+## 🛠 Technologies Used
+
+- Python
+- SymPy (Symbolic Mathematics)
+- Math Module
+
+---
+
+## 💡 Learning Outcomes
+
+- Implemented matrix algebra using SymPy
+- Performed symbolic calculus operations
+- Designed structured menu-driven software
+- Improved logical thinking and problem-solving skills
+
+---
+
+## ▶️ How to Run
+
+1. Clone the repository:
+   git clone https://github.com/tannisthab/Math_Master.git
+
+2. Navigate into the folder:
+   cd Math_Master
+
+3. Run the file:
+   python3 math_master.py
