@@ -67,6 +67,9 @@ Math_Master is a menu-driven Python application that performs a wide range of ma
 2. Navigate into the folder:
    cd Math_Master
 
+3. Run the file:
+   python3 math_master.py
+
    ---
 
 ## 📌 Future Improvements
@@ -77,5 +80,4 @@ Math_Master is a menu-driven Python application that performs a wide range of ma
 - Add unit testing for better reliability
 
 
-4. Run the file:
-   python3 math_master.py
+
