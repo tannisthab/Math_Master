@@ -1,48 +1,48 @@
 # Math_Master  
 ### A Python-Based Mathematical Utility System  
 
-👩‍💻 Developed by: Tannistha Banerjee  
-🎓 BSc Data Science & Analytics  
-📊 Semester 1 SGPA: 9.45  
+Developed by: Tannistha Banerjee  
+BSc Data Science & Analytics  
+Semester 1 SGPA: 9.45  
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 Math_Master is a menu-driven Python application that performs a wide range of mathematical operations in a structured and interactive manner.
 
 ---
 
-## 🚀 Features
+## Features
 
-### 1️⃣ Simple Calculator
+### 1️. Simple Calculator
 - Addition
 - Subtraction
 - Multiplication
 - Division
 
-### 2️⃣ Combinatorics
+### 2. Combinatorics
 - Permutations (nPr)
 - Combinations (nCr)
 
-### 3️⃣ Set Relations
+### 3️. Set Relations
 - Union
 - Intersection
 - Difference
 
-### 4️⃣ Matrix Operations
+### 4️. Matrix Operations
 - Determinant
 - Inverse
 - Transpose
 - Solve Linear Equations (Ax = b)
 
-### 5️⃣ Calculus
+### 5. Calculus
 - Differentiation
 - Integration
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - Python
 - SymPy (Symbolic Mathematics)
@@ -50,7 +50,7 @@ Math_Master is a menu-driven Python application that performs a wide range of ma
 
 ---
 
-## 💡 Learning Outcomes
+## Learning Outcomes
 
 - Implemented matrix algebra using SymPy
 - Performed symbolic calculus operations
@@ -59,7 +59,7 @@ Math_Master is a menu-driven Python application that performs a wide range of ma
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 1. Clone the repository:
    git clone https://github.com/tannisthab/Math_Master.git
@@ -72,7 +72,7 @@ Math_Master is a menu-driven Python application that performs a wide range of ma
 
    ---
 
-## 📌 Future Improvements
+## Future Improvements
 
 - Add graphical user interface (GUI)
 - Expand advanced calculus features
